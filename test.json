@@ -1,0 +1,2411 @@
+{
+	"appRefreshTimeInSecond": "60",
+	"busStop": [
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "108000",
+					"arrivalTimeText": "",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "3",
+					"departureTimeText": "Departing / Departed",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "108000",
+					"arrivalTimeText": "",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "963",
+					"departureTimeText": "16 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "108000",
+					"arrivalTimeText": "",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1923",
+					"departureTimeText": "32 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D010",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "46",
+					"arrivalTimeText": "Arriving / Departed",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "92",
+					"departureTimeText": "1 minute",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1006",
+					"arrivalTimeText": "16 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1052",
+					"departureTimeText": "17 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1966",
+					"arrivalTimeText": "32 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2012",
+					"departureTimeText": "33 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D020",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "122",
+					"arrivalTimeText": "2 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "172",
+					"departureTimeText": "2 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1082",
+					"arrivalTimeText": "18 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1132",
+					"departureTimeText": "18 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2042",
+					"arrivalTimeText": "34 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2092",
+					"departureTimeText": "34 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D030",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "192",
+					"arrivalTimeText": "3 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "227",
+					"departureTimeText": "3 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1152",
+					"arrivalTimeText": "19 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1187",
+					"departureTimeText": "19 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2112",
+					"arrivalTimeText": "35 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2147",
+					"departureTimeText": "35 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D040",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "260",
+					"arrivalTimeText": "4 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "284",
+					"departureTimeText": "4 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1220",
+					"arrivalTimeText": "20 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1244",
+					"departureTimeText": "20 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2180",
+					"arrivalTimeText": "36 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2204",
+					"departureTimeText": "36 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D050",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "316",
+					"arrivalTimeText": "5 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "364",
+					"departureTimeText": "6 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1276",
+					"arrivalTimeText": "21 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1324",
+					"departureTimeText": "22 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2236",
+					"arrivalTimeText": "37 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2284",
+					"departureTimeText": "38 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D060",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "405",
+					"arrivalTimeText": "6 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "462",
+					"departureTimeText": "7 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1365",
+					"arrivalTimeText": "22 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1422",
+					"departureTimeText": "23 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2325",
+					"arrivalTimeText": "38 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2382",
+					"departureTimeText": "39 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D070",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "544",
+					"arrivalTimeText": "9 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "591",
+					"departureTimeText": "9 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1504",
+					"arrivalTimeText": "25 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1551",
+					"departureTimeText": "25 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2464",
+					"arrivalTimeText": "41 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2511",
+					"departureTimeText": "41 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D080",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "608",
+					"arrivalTimeText": "10 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "645",
+					"departureTimeText": "10 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1568",
+					"arrivalTimeText": "26 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1605",
+					"departureTimeText": "26 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2528",
+					"arrivalTimeText": "42 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2565",
+					"departureTimeText": "42 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D090",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "716",
+					"arrivalTimeText": "11 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "786",
+					"departureTimeText": "13 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1676",
+					"arrivalTimeText": "27 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1746",
+					"departureTimeText": "29 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2636",
+					"arrivalTimeText": "43 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2706",
+					"departureTimeText": "45 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D100",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "905",
+					"arrivalTimeText": "15 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "949",
+					"departureTimeText": "15 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1865",
+					"arrivalTimeText": "31 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1909",
+					"departureTimeText": "31 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D110",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "1001",
+					"arrivalTimeText": "16 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1051",
+					"departureTimeText": "17 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1961",
+					"arrivalTimeText": "32 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2011",
+					"departureTimeText": "33 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D120",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "0",
+					"arrivalTimeText": "Arriving / Departed",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 22.443671666666667,
+						"longitude": 114.00969916666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "23",
+					"departureTimeText": "Departing / Departed",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1076",
+					"arrivalTimeText": "17 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1103",
+					"departureTimeText": "18 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2036",
+					"arrivalTimeText": "33 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2063",
+					"departureTimeText": "34 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": "1",
+			"busStopId": "K65-D130",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "99",
+					"arrivalTimeText": "1 minute",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 22.443671666666667,
+						"longitude": 114.00969916666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "115",
+					"departureTimeText": "1 minute",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1181",
+					"arrivalTimeText": "19 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1199",
+					"departureTimeText": "19 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2141",
+					"arrivalTimeText": "35 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2159",
+					"departureTimeText": "35 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D140",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "191",
+					"arrivalTimeText": "3 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 22.443671666666667,
+						"longitude": 114.00969916666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "224",
+					"departureTimeText": "3 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1281",
+					"arrivalTimeText": "21 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1315",
+					"departureTimeText": "21 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2241",
+					"arrivalTimeText": "37 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2275",
+					"departureTimeText": "37 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D150",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "282",
+					"arrivalTimeText": "4 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 22.443671666666667,
+						"longitude": 114.00969916666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "330",
+					"departureTimeText": "5 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1378",
+					"arrivalTimeText": "22 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1426",
+					"departureTimeText": "23 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2338",
+					"arrivalTimeText": "38 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2386",
+					"departureTimeText": "39 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D160",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "427",
+					"arrivalTimeText": "7 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 22.443671666666667,
+						"longitude": 114.00969916666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "505",
+					"departureTimeText": "8 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1524",
+					"arrivalTimeText": "25 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1602",
+					"departureTimeText": "26 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2484",
+					"arrivalTimeText": "41 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2562",
+					"departureTimeText": "42 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D170",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "538",
+					"arrivalTimeText": "8 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 22.443671666666667,
+						"longitude": 114.00969916666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "574",
+					"departureTimeText": "9 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1617",
+					"arrivalTimeText": "26 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1655",
+					"departureTimeText": "27 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2577",
+					"arrivalTimeText": "42 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2615",
+					"departureTimeText": "43 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D180",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "653",
+					"arrivalTimeText": "10 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 22.443671666666667,
+						"longitude": 114.00969916666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "653",
+					"departureTimeText": "10 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "1736",
+					"arrivalTimeText": "28 minutes",
+					"busId": "506",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "0",
+					"departureTimeText": "Departing / Departed",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				},
+				{
+					"arrivalTimeInSecond": "2696",
+					"arrivalTimeText": "44 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "0",
+					"departureTimeText": "Departing / Departed",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_YLS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-D190",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "108000",
+					"arrivalTimeText": "",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "243",
+					"departureTimeText": "4 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "108000",
+					"arrivalTimeText": "",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1203",
+					"departureTimeText": "20 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "108000",
+					"arrivalTimeText": "",
+					"busId": "516",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2163",
+					"departureTimeText": "36 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U010",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "480",
+					"arrivalTimeText": "8 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "554",
+					"departureTimeText": "9 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1440",
+					"arrivalTimeText": "24 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1514",
+					"departureTimeText": "25 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2400",
+					"arrivalTimeText": "40 minutes",
+					"busId": "516",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2474",
+					"departureTimeText": "41 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U020",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "622",
+					"arrivalTimeText": "10 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "700",
+					"departureTimeText": "11 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1582",
+					"arrivalTimeText": "26 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1660",
+					"departureTimeText": "27 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2542",
+					"arrivalTimeText": "42 minutes",
+					"busId": "516",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2620",
+					"departureTimeText": "43 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U030",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "0",
+					"arrivalTimeText": "Arriving / Departed",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "14",
+					"departureTimeText": "Departing / Departed",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "715",
+					"arrivalTimeText": "11 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "752",
+					"departureTimeText": "12 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1675",
+					"arrivalTimeText": "27 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1712",
+					"departureTimeText": "28 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2635",
+					"arrivalTimeText": "43 minutes",
+					"busId": "516",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2672",
+					"departureTimeText": "44 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": "1",
+			"busStopId": "K65-U040",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "54",
+					"arrivalTimeText": "Arriving / Departed",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "94",
+					"departureTimeText": "1 minute",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "796",
+					"arrivalTimeText": "13 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "834",
+					"departureTimeText": "13 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1756",
+					"arrivalTimeText": "29 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1794",
+					"departureTimeText": "29 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U050",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "151",
+					"arrivalTimeText": "2 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "173",
+					"departureTimeText": "2 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "896",
+					"arrivalTimeText": "14 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "918",
+					"departureTimeText": "15 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1856",
+					"arrivalTimeText": "30 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1878",
+					"departureTimeText": "31 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U060",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "186",
+					"arrivalTimeText": "3 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "209",
+					"departureTimeText": "3 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "932",
+					"arrivalTimeText": "15 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "954",
+					"departureTimeText": "15 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1892",
+					"arrivalTimeText": "31 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1914",
+					"departureTimeText": "31 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U070",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "237",
+					"arrivalTimeText": "3 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "254",
+					"departureTimeText": "4 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "982",
+					"arrivalTimeText": "16 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1001",
+					"departureTimeText": "16 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1942",
+					"arrivalTimeText": "32 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1961",
+					"departureTimeText": "32 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U080",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "388",
+					"arrivalTimeText": "6 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "416",
+					"departureTimeText": "6 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1136",
+					"arrivalTimeText": "18 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1166",
+					"departureTimeText": "19 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2096",
+					"arrivalTimeText": "34 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2126",
+					"departureTimeText": "35 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U090",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "434",
+					"arrivalTimeText": "7 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "475",
+					"departureTimeText": "7 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1184",
+					"arrivalTimeText": "19 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1230",
+					"departureTimeText": "20 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2144",
+					"arrivalTimeText": "35 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2190",
+					"departureTimeText": "36 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U100",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "580",
+					"arrivalTimeText": "9 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "636",
+					"departureTimeText": "10 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1339",
+					"arrivalTimeText": "22 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1395",
+					"departureTimeText": "23 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2299",
+					"arrivalTimeText": "38 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2355",
+					"departureTimeText": "39 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U110",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "676",
+					"arrivalTimeText": "11 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "749",
+					"departureTimeText": "12 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1433",
+					"arrivalTimeText": "23 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1506",
+					"departureTimeText": "25 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2393",
+					"arrivalTimeText": "39 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2466",
+					"departureTimeText": "41 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U120",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "819",
+					"arrivalTimeText": "13 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "828",
+					"departureTimeText": "13 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1577",
+					"arrivalTimeText": "26 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1593",
+					"departureTimeText": "26 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2537",
+					"arrivalTimeText": "42 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2553",
+					"departureTimeText": "42 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U130",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "844",
+					"arrivalTimeText": "14 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "886",
+					"departureTimeText": "14 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1609",
+					"arrivalTimeText": "26 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1655",
+					"departureTimeText": "27 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2569",
+					"arrivalTimeText": "42 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2615",
+					"departureTimeText": "43 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U140",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "26",
+					"arrivalTimeText": "Arriving / Departed",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 22.446772499999998,
+						"longitude": 113.99442316666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "65",
+					"departureTimeText": "1 minute",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "955",
+					"arrivalTimeText": "15 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "993",
+					"departureTimeText": "16 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1720",
+					"arrivalTimeText": "28 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1757",
+					"departureTimeText": "29 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2680",
+					"arrivalTimeText": "44 minutes",
+					"busId": "544",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2717",
+					"departureTimeText": "45 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": "1",
+			"busStopId": "K65-U150",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "78",
+					"arrivalTimeText": "1 minute",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 22.446772499999998,
+						"longitude": 113.99442316666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "119",
+					"departureTimeText": "1 minute",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1007",
+					"arrivalTimeText": "16 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1048",
+					"departureTimeText": "17 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1771",
+					"arrivalTimeText": "29 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1812",
+					"departureTimeText": "30 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U160",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "130",
+					"arrivalTimeText": "2 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 22.446772499999998,
+						"longitude": 113.99442316666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "174",
+					"departureTimeText": "2 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1059",
+					"arrivalTimeText": "17 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1103",
+					"departureTimeText": "18 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1824",
+					"arrivalTimeText": "30 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1873",
+					"departureTimeText": "31 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U170",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "183",
+					"arrivalTimeText": "3 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 22.446772499999998,
+						"longitude": 113.99442316666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "218",
+					"departureTimeText": "3 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1111",
+					"arrivalTimeText": "18 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1147",
+					"departureTimeText": "19 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1881",
+					"arrivalTimeText": "31 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1917",
+					"departureTimeText": "31 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U180",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "256",
+					"arrivalTimeText": "4 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 22.446772499999998,
+						"longitude": 113.99442316666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "291",
+					"departureTimeText": "4 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1185",
+					"arrivalTimeText": "19 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1220",
+					"departureTimeText": "20 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1956",
+					"arrivalTimeText": "32 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1991",
+					"departureTimeText": "33 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U190",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "313",
+					"arrivalTimeText": "5 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 22.446772499999998,
+						"longitude": 113.99442316666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "349",
+					"departureTimeText": "5 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1242",
+					"arrivalTimeText": "20 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1278",
+					"departureTimeText": "21 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2011",
+					"arrivalTimeText": "33 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2048",
+					"departureTimeText": "34 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U200",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "379",
+					"arrivalTimeText": "6 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 22.446772499999998,
+						"longitude": 113.99442316666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "417",
+					"departureTimeText": "6 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1308",
+					"arrivalTimeText": "21 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1345",
+					"departureTimeText": "22 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2078",
+					"arrivalTimeText": "34 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2117",
+					"departureTimeText": "35 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U210",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "450",
+					"arrivalTimeText": "7 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 22.446772499999998,
+						"longitude": 113.99442316666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "490",
+					"departureTimeText": "8 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1379",
+					"arrivalTimeText": "22 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1419",
+					"departureTimeText": "23 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2149",
+					"arrivalTimeText": "35 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "2188",
+					"departureTimeText": "36 minutes",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U220",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		},
+		{
+			"bus": [
+				{
+					"arrivalTimeInSecond": "525",
+					"arrivalTimeText": "8 minutes",
+					"busId": "523",
+					"busLocation": {
+						"latitude": 22.446772499999998,
+						"longitude": 113.99442316666666
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "525",
+					"departureTimeText": "8 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "1454",
+					"arrivalTimeText": "24 minutes",
+					"busId": "527",
+					"busLocation": {
+						"latitude": 22.444552833333333,
+						"longitude": 114.0263755
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "1454",
+					"departureTimeText": "24 minutes",
+					"isDelayed": "0",
+					"isScheduled": "0",
+					"lineRef": "K65_LFS"
+				},
+				{
+					"arrivalTimeInSecond": "2222",
+					"arrivalTimeText": "37 minutes",
+					"busId": "148",
+					"busLocation": {
+						"latitude": 0,
+						"longitude": 0
+					},
+					"busRemark": null,
+					"departureTimeInSecond": "0",
+					"departureTimeText": "Departing / Departed",
+					"isDelayed": "0",
+					"isScheduled": "1",
+					"lineRef": "K65_LFS"
+				}
+			],
+			"busIcon": null,
+			"busStopId": "K65-U230",
+			"busStopRemark": null,
+			"busStopStatus": null,
+			"busStopStatusRemarkContent": null,
+			"busStopStatusRemarkTitle": null,
+			"busStopStatusTime": null,
+			"isSuspended": "0"
+		}
+	],
+	"caseNumber": 0,
+	"caseNumberDetail": "",
+	"footerRemarks": "System testing in progress.  Estimated arrival time may vary from actual arrival time.  Please allow sufficient time for travel. Scheduled and arrival times are for reference only and are subject to change without prior notice.",
+	"routeColour": "",
+	"routeName": "K65",
+	"routeStatus": "0",
+	"routeStatusColour": "black",
+	"routeStatusRemarkContent": null,
+	"routeStatusRemarkFooterRemark": "",
+	"routeStatusRemarkTitle": null,
+	"routeStatusTime": "2025/07/21 11:21",
+	"status": "0"
+}
